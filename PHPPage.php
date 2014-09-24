@@ -1,5 +1,5 @@
 <?php
-    $test = "treść 1";
+    $test = "treść 2";
 print_r($test);
 ?>
 
